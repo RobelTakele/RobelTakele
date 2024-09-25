@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=RobelTakele&langs_count=14&theme=nord&layout=compact
+
+https://github-readme-stats.vercel.app/api?username=RobelTakele&show_icons=true&theme=nord&include_all_commits=true
+
+https://github-profile-trophy.vercel.app/?username=RobelTakele&theme=nord
+
 <!--
 **RobelTakele/RobelTakele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
