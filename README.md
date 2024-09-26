@@ -3,7 +3,7 @@
 
 # Ciao, ሰላም 🙋‍♂️✨
 
-I'm **Robel** and i enjoy **Geospatial modeling 🌍🛰️📊 **.
+I'm **Robel** and i enjoy **Geospatial modeling** 🌍🛰️📊.
 
 I’m passionate about geospatial modeling and its diverse applications. As an Agrometeorologist, my work focuses on climate science, crop modeling and geospatial data analysis. I specialize in integrating these fields to enhance natural risk management and contribute to sustainable agricultural practices. Through my research and projects, I aim to develop data-driven solutions that help address pressing environmental challenges.
 
