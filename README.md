@@ -10,7 +10,7 @@ I’m passionate about geospatial modeling and its diverse applications. As an A
 ---
 ### **About Me:**
 
-   &nbsp;&nbsp;🔭  I’m currently developing [AquaBEHER](https://github.com/RobelTakele/AquaBEHER), a powerful tool for estimating and predicting soil water balance and wet season calendars.
+   &nbsp;&nbsp;🔭  I’m currently developing [AquaBEHER](https://github.com/RobelTakele/AquaBEHER), a powerful tool for predicting soil water balance and wet season calendars.
    
    &nbsp;&nbsp;👯  I’m looking to collaborate on web-based geospatial modeling, mapping and visualization tools. 😜
    
