@@ -5,9 +5,8 @@ I'm Agrometeorologist working on climate, crop and Geospatial modeling and natur
 **About me**
 
 - 🔭 I’m currently working on https://github.com/RobelTakele/AquaBEHER
-- 👯 I’m looking to collaborate on web based geospatial modeling, mapping and visualization too development for fun
-- 🤔 I’m looking for help with *something* ( ͡• ͜ʖ ͡•)
-- 🎨 Hobbys: Music, movies and events.
+- 👯 I’m looking to collaborate on web based geospatial modeling, mapping and visualization tool development for fun 😜
+- 🎨 Hobbys: Music, movies and events. ( ͡• ͜ʖ ͡•)
 - ⚡ Fun fact: I am someone..... 😜
 - 💬 Ask me about anything [here]((https://github.com/RobelTakele/RobelTakele/issues))
 
