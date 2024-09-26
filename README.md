@@ -10,15 +10,15 @@ I’m passionate about geospatial modeling and its diverse applications. As an A
 ---
 ### **About Me:**
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭  I’m currently developing [AquaBEHER](https://github.com/RobelTakele/AquaBEHER), a powerful tool for estimating and predicting soil water balance and wet season calendars.
+   &nbsp;&nbsp;&nbsp;🔭  I’m currently developing [AquaBEHER](https://github.com/RobelTakele/AquaBEHER), a powerful tool for estimating and predicting soil water balance and wet season calendars.
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👯  I’m looking to collaborate on web-based geospatial modeling, mapping and visualization tools — especially for fun projects!😜. 
+   &nbsp;&nbsp;&nbsp;👯  I’m looking to collaborate on web-based geospatial modeling, mapping and visualization tools — especially for fun projects!😜. 
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨  **Hobbies:** I enjoy music, movies, and attending events. ( ͡• ͜ʖ ͡•) 
+   &nbsp;&nbsp;&nbsp;🎨  **Hobbies:** I enjoy music, movies, and attending events. ( ͡• ͜ʖ ͡•) 
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡   **Fun fact:** I have a knack for blending science and creativity. 😜 
+   &nbsp;&nbsp;&nbsp;⚡   **Fun fact:** I have a knack for blending science and creativity. 😜 
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬  **Ask me anything** [here](https://github.com/RobelTakele/RobelTakele/issues)!
+   &nbsp;&nbsp;&nbsp;💬  **Ask me anything** [here](https://github.com/RobelTakele/RobelTakele/issues)!
   
 <div align = "center">
 
