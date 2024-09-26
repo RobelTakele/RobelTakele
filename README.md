@@ -1,18 +1,31 @@
-## Hi there 👋
 
-I'm Agrometeorologist working on climate, crop and Geospatial modeling and natural risk management.
+<img src="assets/EarthSpaceBanner.jpg" width="100%"></img>
 
-**About me**
+# Ciao, ሰላም 🙋‍♂️✨
 
-- 🔭 I’m currently working on https://github.com/RobelTakele/AquaBEHER
-- 👯 I’m looking to collaborate on web based geospatial modeling, mapping and visualization tool development for fun 😜
-- 🎨 Hobbys: Music, movies and events. ( ͡• ͜ʖ ͡•)
-- ⚡ Fun fact: I am someone..... 😜
-- 💬 Ask me about anything [here]((https://github.com/RobelTakele/RobelTakele/issues))
+I'm **Robel** and i enjoy **Geospatial modeling 🌍🛰️📊 **.
 
-- 📫 How to reach me:
-     - mail: takelerobel@gmail.com
-     - mail : robeltakele@proton.me
+I’m passionate about geospatial modeling and its diverse applications. As an Agrometeorologist, my work focuses on climate science, crop modeling and geospatial data analysis. I specialize in integrating these fields to enhance natural risk management and contribute to sustainable agricultural practices. Through my research and projects, I aim to develop data-driven solutions that help address pressing environmental challenges.
+
+---
+
+### **About Me**
+
+- 🔭 I’m currently developing [AquaBEHER](https://github.com/RobelTakele/AquaBEHER), a powerful tool for estimating and predicting soil water balance and wet season calendars.
+- 👯 I’m looking to collaborate on web-based geospatial modeling, mapping, and data visualization tools — especially for fun projects! 😜
+- 🎨 **Hobbies:** I enjoy music, movies, and attending events. ( ͡• ͜ʖ ͡•)
+- ⚡ **Fun fact:** I have a knack for blending science and creativity. 😜
+- 💬 **Ask me anything** [here](https://github.com/RobelTakele/RobelTakele/issues)!
+
+- 📫 **How to reach me**:
+   - Email: takelerobel@gmail.com
+   - Email: robeltakele@proton.me
+  
+<div align = "center">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/robel-takele-miteku-9604b432/) [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Robel-Takele) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/takelerobel) 
+
+</div>
 
 <div align="center">
      
@@ -27,3 +40,4 @@ I'm Agrometeorologist working on climate, crop and Geospatial modeling and natur
 [![trophy](https://github-profile-trophy.vercel.app/?username=RobelTakele&theme=flat&row=1&column=8&margin-w=15&title=-Reviews)](https://github.com/RobelTakele)
 
 </div>
+
