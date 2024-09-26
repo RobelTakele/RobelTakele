@@ -29,7 +29,7 @@ I’m passionate about geospatial modeling and its diverse applications. As an A
 <div align="center">
      
 <a href="https://github.com/RobelTakele">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RobelTakele&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparentwidth=130" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RobelTakele&show_icons=true&rank_icon=github&theme=transparentwidth=130" />
 </a> 
 <a href="https://github.com/RobelTakele">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RobelTakele&layout=compact&langs_count=12&show_icons=true&theme=transparent&card_width=320" />
