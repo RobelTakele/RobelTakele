@@ -5,6 +5,7 @@
 
 I'm **Robel** and i enjoy **Geospatial modeling 🌍🛰️📊 **.
 
+
 I’m passionate about geospatial modeling and its diverse applications. As an Agrometeorologist, my work focuses on climate science, crop modeling and geospatial data analysis. I specialize in integrating these fields to enhance natural risk management and contribute to sustainable agricultural practices. Through my research and projects, I aim to develop data-driven solutions that help address pressing environmental challenges.
 
 ---
@@ -41,3 +42,8 @@ I’m passionate about geospatial modeling and its diverse applications. As an A
 
 </div>
 
+<div align="center">
+  <picture>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RobelTakele&border_radius=&card_width=500&ring=0366D6&fire=0366D6&currStreakLabel=0366D6&border=FFFFFF00&background=FFFFFF00&stroke=FFFFFF00&currStreakNum=777777&sideNums=777777&sideLabels=777777&dates=959DA5&excludeDaysLabel=959DA5" alt="GitHub Streak" loading="lazy" title="GitHub Streak"/>
+  </picture>
+</div>
